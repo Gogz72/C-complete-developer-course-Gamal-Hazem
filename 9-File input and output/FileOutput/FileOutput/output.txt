@@ -1,0 +1,20 @@
+the sequence of number is:
+        0.00       0.000
+the sequence of number is:
+        5.34       3.146
+the sequence of number is:
+       10.69       6.292
+the sequence of number is:
+       16.04       9.438
+the sequence of number is:
+       21.38      12.584
+the sequence of number is:
+       26.72      15.730
+the sequence of number is:
+       32.07      18.875
+the sequence of number is:
+       37.41      22.021
+the sequence of number is:
+       42.76      25.167
+the sequence of number is:
+       48.10      28.313

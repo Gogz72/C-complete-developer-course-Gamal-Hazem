@@ -1,0 +1,32 @@
+the perimeter and the area respectivle of Rectangle number 1are
+28          24
+the perimeter and the area respectivle of Rectangle number 2are
+28          40
+the perimeter and the area respectivle of Rectangle number 3are
+18          20
+the perimeter and the area respectivle of Rectangle number 4are
+28          48
+the perimeter and the area respectivle of Rectangle number 5are
+56          160
+the perimeter and the area respectivle of Rectangle number 6are
+32          60
+the perimeter and the area respectivle of Rectangle number 7are
+22          30
+the perimeter and the area respectivle of Rectangle number 8are
+20          25
+the perimeter and the area respectivle of Rectangle number 9are
+12          8
+the perimeter and the area respectivle of Rectangle number 10are
+20          9
+the perimeter and the area respectivle of Rectangle number 11are
+8          3
+the perimeter and the area respectivle of Rectangle number 12are
+18          14
+the perimeter and the area respectivle of Rectangle number 13are
+34          72
+the perimeter and the area respectivle of Rectangle number 14are
+48          144
+the perimeter and the area respectivle of Rectangle number 15are
+22          30
+the perimeter and the area respectivle of Rectangle number 16are
+42          110
