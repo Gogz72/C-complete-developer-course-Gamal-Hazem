@@ -1,0 +1,7 @@
+﻿  Source.cpp
+D:\work\Courses\The Complete C++ Developer Course\Workspace\5-Functions\cmath_fun\cmath_fun\Source.cpp(8,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\work\Courses\The Complete C++ Developer Course\Workspace\5-Functions\cmath_fun\cmath_fun\Source.cpp(9,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\work\Courses\The Complete C++ Developer Course\Workspace\5-Functions\cmath_fun\cmath_fun\Source.cpp(10,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\work\Courses\The Complete C++ Developer Course\Workspace\5-Functions\cmath_fun\cmath_fun\Source.cpp(11,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\work\Courses\The Complete C++ Developer Course\Workspace\5-Functions\cmath_fun\cmath_fun\Source.cpp(12,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  cmath_fun.vcxproj -> D:\work\Courses\The Complete C++ Developer Course\Workspace\5-Functions\cmath_fun\x64\Debug\cmath_fun.exe

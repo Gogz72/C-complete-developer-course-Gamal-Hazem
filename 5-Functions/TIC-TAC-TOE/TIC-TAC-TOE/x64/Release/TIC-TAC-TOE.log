@@ -1,0 +1,7 @@
+﻿  Source.cpp
+D:\work\Courses\The Complete C++ Developer Course\Workspace\5-Functions\TIC-TAC-TOE\TIC-TAC-TOE\Source.cpp(72,2): warning C4809: switch statement has redundant 'default' label; all possible 'case' labels are given
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 90 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  TIC-TAC-TOE.vcxproj -> D:\work\Courses\The Complete C++ Developer Course\Workspace\5-Functions\TIC-TAC-TOE\x64\Release\TIC-TAC-TOE.exe
